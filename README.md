@@ -1,4 +1,4 @@
-# future-intern-projects
+# python development projects
 # Internship Project
 
 Welcome to my internship project repository! This project includes several mini-applications built with Python and Tkinter. The applications are:
